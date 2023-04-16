@@ -17,3 +17,10 @@ Step 4: Import database vacc.sql in php myadmin.
 
 Now site is fully functionable.
 
+Results: 
+Front page view of project to login and signup with various functionalities.
+
+![Screenshot 2023-04-16 222415](https://user-images.githubusercontent.com/115907631/232328092-1a1e46c0-e449-4cf0-b810-77966c8e362f.png)
+
+Form to book appointment with doctor.
+![Screenshot 2023-04-16 223019](https://user-images.githubusercontent.com/115907631/232328326-c30740f6-f2ca-42f3-85cf-d41df851375e.png)
